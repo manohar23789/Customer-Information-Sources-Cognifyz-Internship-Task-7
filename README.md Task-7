@@ -1,0 +1,20 @@
+## Task 7: Common Information Sources
+
+### Objective: Analyze common sources participants rely on for investment information.
+
+### Description: This task analyzes the `Source` column to identify and summarize the most common sources participants rely on for investment information.
+
+### Analysis Performed
+- Loaded the dataset using Pandas
+- Examined the `Source` column
+- Calculated the frequency of each information source
+- Calculated the percentage of participants
+- Created a summary table
+- Identified the most common information source
+- Ranked the information sources by frequency
+- Created a bar chart to visualize the common information sources
+
+### Technologies Used
+- Python
+- Pandas
+- Matplotlib
